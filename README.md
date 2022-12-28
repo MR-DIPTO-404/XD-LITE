@@ -1,1 +1,3 @@
 # XD-LITE
+
+*XD LITE VERSION 1.0
